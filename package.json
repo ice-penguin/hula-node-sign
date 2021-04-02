@@ -1,0 +1,27 @@
+{
+  "name": "hula-node-sign",
+  "version": "1.0.0",
+  "description": "呼啦node签名",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ice-penguin/hula-node-sign.git"
+  },
+  "keywords": [
+    "hula",
+    "node",
+    "sign"
+  ],
+  "author": "penguinhj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ice-penguin/hula-node-sign/issues"
+  },
+  "homepage": "https://github.com/ice-penguin/hula-node-sign#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
