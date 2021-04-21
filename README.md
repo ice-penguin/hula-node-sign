@@ -37,12 +37,12 @@ console.log(sign)//Lwe0cIjjzGB2FZvOgSGwBh7/omxKUrGHlqLDXuZ0pkTlxM+ga4sTcOgMJq55s
 
 ```
 let client = require('hula-node-sign');
-let public_Key = "";
+let public_key = "";
 let private_key = "";
 
 // 初始化请求客户端
 client.initRequest({
-    public_Key:public_Key,
+    public_key:public_key,
     private_key:private_key
 })//client获得request方法
 
