@@ -1,6 +1,6 @@
 {
   "name": "hula-node-sign",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "呼啦node签名",
   "main": "index.js",
   "scripts": {
