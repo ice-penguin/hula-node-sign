@@ -1,6 +1,6 @@
 {
   "name": "hula-node-sign",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "description": "呼啦node签名",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/ice-penguin/hula-node-sign#readme",
   "dependencies": {
+    "lodash": "^4.17.21",
     "request": "^2.88.2"
   }
 }
